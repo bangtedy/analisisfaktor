@@ -1,9 +1,9 @@
 fig:nice-fig
 tab:nice-tab
 pendahuluan
-literature
-methods
-penerapan
+tahapan-analisis-faktor
+model-analisis-faktor
+metode-ekstraksi-model
 example-one
 example-two
-kesimpulan
+interpretasi-hasil-analisis-faktor

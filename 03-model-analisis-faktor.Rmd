@@ -1,0 +1,3 @@
+# Model Analisis Faktor 
+
+We describe the models in this chapter.

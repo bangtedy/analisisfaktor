@@ -1,0 +1,4 @@
+# Interpretasi Hasil Analisis Faktor
+
+Some interpretations are demonstrated in this chapter.
+work in progress...
