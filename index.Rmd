@@ -14,7 +14,7 @@ cover-image: images/analisisfaktor.jpg
 # favicon: images/favicon.png
 ---
 
-# Kata Pengantar {.unnumbered}
+# Kata Pengantar {-}
 
 <!-- R global options: R chunk images display without code (no echo); show PDF image over JPG/PNG when available in PDF output -->
 
@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 options(knitr.graphics.auto_pdf = FALSE)
 ```
 
-![](images/analisisfaktor.jpg){width="579"}
+![](images/analisisfaktor.jpg){width="300"}
 
 **Terakhir diperbarui pada: `r format (Sys.Date(), '%d %b %Y')`**.
 
@@ -31,6 +31,6 @@ work in progress
 
 <strong>Analisis Faktor</strong> is copyrighted by <a href="https://bangtedy.github.io/">Tedy Herlambang</a> and distributed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons BY-NC-ND 4.0 International License</a>. You may freely share this content for non-commercial purposes, with a source credit to <a href="https://bangtedy.github.io/analisisfaktor">https://bangtedy.github.io/analisisfaktor</a>.
 
-#### Disclaimer {.unnumbered}
+#### Disclaimer {-}
 
 The information is this book is provided without warranty. The authors and publisher have neither liability nor responsibility to any person or entity related to any loss or damages arising from the information contained in this book.

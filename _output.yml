@@ -1,5 +1,12 @@
+bookdown::bs4_book:
+  css: css/r4ds.css
+  theme:
+    primary: "#a10a22"
+  repo: https://github.com/bangtedy/analisisfaktor
+  includes:
+    in_header: [ga_script.html, material_icons.html]
 bookdown::gitbook:
-  css: style.css
+  css: css/r4ds.css
   config:
     toc:
       before: |
